@@ -11,7 +11,8 @@ tron = Tron(full_node=full_node,
             event_server=event_server)
 
 print("\n\n\t\t\t/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\n\n"
-      "\t\t\t\t we suggest to use a seperated wallet to do the airdrop from, not your main/personal one"
+      "\t\t\t\t we suggest to use a seperated wallet to do the airdrop from, not your main/personal one\n
+      keep some TRX in your wallet which will be consumed by the network for bandwidth"
       "\n\n\t\t\t/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\n\n")
 
 
